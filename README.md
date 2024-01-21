@@ -7,16 +7,16 @@ Make sure you have Python 3 installed on your machine, with libraries random, ti
 
 ## Running the program:
 
-    1. Download the project files and extract them to a folder.
-    2. Open a terminal window and navigate to the folder where the project files are located.
-    3. Run the following command to execute the program:
+1. Download the project files and extract them to a folder.
+2. Open a terminal window and navigate to the folder where the project files are located.
+3. Run the following command to execute the program:
 
 ```
 python lcs.py
 ```
 
-    1. The program will then execute the LCS algorithm for all pairs of DNA sequences and print the results to the console. 2. The total number of comparisons made during the execution of the algorithm will also be displayed.
-    3. The program will write the input sequences, pairwise LCS results, total number of comparisons, a asymptotic complexity table to the output file and showcase a graph.
+1. The program will then execute the LCS algorithm for all pairs of DNA sequences and print the results to the console. 2. The total number of comparisons made during the execution of the algorithm will also be displayed.
+3. The program will write the input sequences, pairwise LCS results, total number of comparisons, a asymptotic complexity table to the output file and showcase a graph.
 
 ## Generating additional test cases
 
