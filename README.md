@@ -27,3 +27,7 @@ To add user custom test cases, you can append them to the input.txt file in the 
 Test Case Name = DNA sequence
 
 Replace "Test Case Name" with a unique name for the test case, and "DNA sequence" with the DNA sequence you want to test. The program will automatically read these test cases from the file and include them in the execution.
+
+## Data Visualization
+
+![graph](https://github.com/malsuwailm/lcs-genetic-analysis/blob/main/output.png)
